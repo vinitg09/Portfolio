@@ -1,0 +1,180 @@
+body{
+    margin: auto;
+    width: 60%;
+    background-color: #f2f2f2;
+}
+
+
+h2, h3, h4, h5, h6, p, .h2, .h3, .h4, .h5, .h6, .p {
+    margin-top: 0;
+    margin-bottom: 8px;
+    color: #212529;
+
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 36px;
+}
+
+
+.titlediv{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+
+.title1{
+    color: #212529;
+    font-size: 32px;
+    font-weight: 900;
+    margin-top: 0;
+}
+
+
+.title2{
+    color: #32746d;
+    font-size: 32px;
+    font-weight: 900;
+    margin-top: 0;
+}
+
+
+.contact{
+    flex: 1;
+}
+
+
+.columnheader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding-left: 36px;
+    padding-right: 36px;
+
+}
+
+
+.item{
+    flex: 1;
+    color: #38a3a5;
+    font-weight: 600;
+}
+
+
+.skill{
+    flex: 1;
+    color: #38a3a5;
+    font-weight: 600;
+    padding-bottom: 36px;
+}
+
+
+
+main{
+    display: flex;
+    background-color: #ffffff;
+    padding: 36px;
+}
+
+
+
+.column{
+    flex: 1;
+}
+
+
+
+.job{
+    padding-right: 48px;
+}
+
+
+.education{
+    padding-right: 48px;
+}
+
+
+.jobbox{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+
+.jobtitlebox{
+    display: flex;
+    padding-bottom: 4px;
+    align-items: baseline;
+}
+
+.jobtitle1{
+    font-size: 20px;
+    display: flex;
+    font-weight: 600;
+    color: #212529;
+    padding-right: 4px;
+}
+
+
+.jobtitle2{
+    font-size: 20px;
+    font-weight: 400;
+    color: #212529;
+}
+
+
+.jobduration{
+    color: #6c757d;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.jobdescription{
+    color: #212529;
+    font-size: 15px;
+    text-align: justify;
+    padding-bottom: 36px;
+}
+
+
+.jdr2{
+    color: #212529;
+    font-size: 15px;
+    text-align: justify;
+    padding-bottom: 24px;
+}
+
+
+.jdr1{
+    color: #212529;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+
+.cgpa{
+    font-size: 16px;
+    font-weight: 600;
+    color: #212529;
+}
+
+
+.cgpa1{
+    font-size: 16px;
+    font-weight: 600;
+    color: #212529;
+    padding-bottom: 36px;
+}
+
+
+
+
+
